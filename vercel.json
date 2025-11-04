@@ -1,5 +1,5 @@
 {
-  "buildCommand": "npm run build",
-  "outputDirectory": "dist",
+  "buildCommand": "cd team-zanolini-bjj-app-with-logo && npm run build",
+  "outputDirectory": "team-zanolini-bjj-app-with-logo/dist",
   "framework": "vite"
 }
